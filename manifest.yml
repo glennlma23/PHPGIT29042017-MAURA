@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PHPGIT29042017-MAURA
+  host: PHPGIT29042017-MAURA
+  disk_quota: 1024M
